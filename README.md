@@ -52,14 +52,42 @@ Project 4: Sales KPI Documentation & Design System
  - Files: Sales_KPI_Dashboard_DS_Notes_Detailed
 
  - Tools: Excel, Documentation Standards
- 
- Key Contributions:
+
+Key Contributions:
 
  - Documented each KPI with logic, formulas, and data lineage.
 
  - Standardized visualization formatting and calculation design.
 
  - Outcome: Facilitated scalable reporting and consistent metric understanding.
+
+Project 5: Predictive Manufacturing Efficiency Model
+
+ - Tools: Python, Excel, Tableau
+
+Key Contributions:
+
+ - Developed a forecasting model to predict production throughput and machine efficiency.
+
+ - Incorporated historical shift, labor, and downtime data.
+
+ - Created dashboard visualizations that allowed plant leaders to simulate future states.
+
+ - Outcome: Improved daily planning and long-term production strategy.
+
+Project 6: OEE & Operational Dashboard (Efficiency Focus)
+
+ - Tools: Tableau, SQL
+
+Key Contributions:
+
+ - Built a manufacturing operations dashboard with real-time data feed.
+
+ - Tracked OEE (Overall Equipment Effectiveness), availability, performance, and quality.
+
+ - Designed McKinsey-style KPI cards and visual targets.
+
+ - Outcome: Provided frontline supervisors with data to boost shift-level efficiency.
 
 Core Strengths
 
@@ -68,5 +96,7 @@ Core Strengths
  - Data storytelling for executive stakeholders
 
  - KPI framework development
+
+ - Predictive modeling & trend forecasting
 
  - Operational performance analysis
