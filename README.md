@@ -61,7 +61,7 @@ Key Contributions:
 
  - Outcome: Facilitated scalable reporting and consistent metric understanding.
 
-Project 5: Predictive Manufacturing Efficiency Model
+Project 5: Predictive Manufacturing Efficiency Model (In Process)
 
  - Tools: Python, Excel, Tableau
 
@@ -75,7 +75,7 @@ Key Contributions:
 
  - Outcome: Improved daily planning and long-term production strategy.
 
-Project 6: OEE & Operational Dashboard (Efficiency Focus)
+Project 6: OEE & Operational Dashboard (Efficiency Focus) (In Process)
 
  - Tools: Tableau, SQL
 
