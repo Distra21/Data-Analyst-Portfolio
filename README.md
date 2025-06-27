@@ -7,7 +7,9 @@ Project 1: Heart Attack Risk Analysis
 
  - Files: Heart_Attack_Clean.csv, Heart_Attack_Full_Executive_Summary.pdf
 
- - Tools: Python, SQL, TableauKey Contributions:
+ - Tools: Python, SQL, Tableau
+
+Key Contributions:
 
  - Cleaned, transformed, and analyzed patient-level cardiovascular data.
 
@@ -21,7 +23,9 @@ Project 2: HR Analytics Dashboard
 
  - Files: HR_Dashboard.twbx
 
- - Tools: TableauKey Contributions:
+ - Tools: Tableau
+   
+Key Contributions:
 
  - Built dynamic dashboard tracking headcount, attrition, and diversity.
 
@@ -33,7 +37,9 @@ Project 3: Sales & Customer Performance Dashboards
 
  - Files: Solis_Sales & Customer Dashboards.twbx, Sales_KPI_Portfolio.xlsx
 
- - Tools: Tableau, ExcelKey Contributions:
+ - Tools: Tableau, Excel
+ 
+ Key Contributions:
 
  - Developed executive KPIs on revenue, customer retention, and pipeline.
 
@@ -45,7 +51,9 @@ Project 4: Sales KPI Documentation & Design System
 
  - Files: Sales_KPI_Dashboard_DS_Notes_Detailed
 
- - Tools: Excel, Documentation StandardsKey Contributions:
+ - Tools: Excel, Documentation Standards
+ 
+ Key Contributions:
 
  - Documented each KPI with logic, formulas, and data lineage.
 
